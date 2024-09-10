@@ -1,0 +1,53 @@
+.footer_cont {
+  background-color: black;
+  color: white;
+  height: 350px;
+  padding-top: 50px;
+  .footer_title {
+    display: flex;
+    justify-content: space-between;
+  }
+  .lorem_text p {
+    font-size: 14px;
+    width: 300px;
+    padding-top: 20px;
+    line-height: 25px;
+  }
+  .footer_images {
+    display: flex;
+    gap: 20px;
+    padding-top: 20px;
+  }
+  .infor p {
+    padding-top: 20px;
+    line-height: 30px;
+  }
+  .infor span {
+    font-weight: 600;
+  }
+  .catego p {
+    padding-top: 20px;
+    line-height: 30px;
+  }
+  .catego span {
+    font-weight: 600;
+  }
+  .conta p {
+    padding-top: 20px;
+    line-height: 25px;
+  }
+  .conta span {
+    font-weight: 600;
+  }
+}
+.digi {
+  background-color: black;
+
+  .footer_footer p {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+  }
+}

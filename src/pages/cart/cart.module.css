@@ -1,0 +1,13 @@
+.cart_img{
+    width: 150px;
+    height: 150px;
+}
+.img_cart{
+    display: flex;
+}
+.cart_price h3{
+  font-size: 15px;  
+}
+.cart_price{
+    padding-top: 50px;
+}

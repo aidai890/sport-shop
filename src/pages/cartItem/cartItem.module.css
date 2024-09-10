@@ -1,0 +1,80 @@
+.box{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.text_2{
+    display: flex;
+    gap: 60px;
+}
+.cart{
+    display: flex;
+}
+.prices h3{
+    font-size: 16px;
+    padding-top: 35px;
+}
+.name h3{
+    padding-top: 35px;
+    font-size:16px ;
+}
+.btn{
+    padding-top: 35px;
+}
+.btn button{
+    width: 30px;
+    border:1px solid rgba(171, 164, 164, 0.258);
+    height: 30px;
+    background-color: white;
+}
+.btn span{
+    padding: 10px;
+}
+.boxis{
+    width: 55rem;
+    border: 1px solid rgba(205, 199, 199, 0.178);
+    background-color: white;
+}
+.cont{
+    display: flex;
+    gap: 92px;
+    padding-left: 280px;
+}
+.spans{
+    padding-top: 32px;
+}
+.content{
+    display: flex;
+    gap: 30px;
+}
+.list{
+    width: 265px;
+    height: 300px;
+    border: 1px solid  rgba(205, 199, 199, 0.178);
+}
+.logo h2{
+    font-size: 15px;
+    padding: 20px 20px ;
+}
+
+.button{
+    width: 170px;
+    height: 35px;
+    border:transparent;
+    border-radius: 5px;
+    background-color: #F6AA1C;
+    color: white;
+    margin-top: 20px;
+    margin-left: 45px;
+}
+.nav_text{
+    display: flex;
+    justify-content: space-between;
+}
+.nav{
+    padding: 0 20px;
+}
+.spa{
+    font-size: 20px;
+    color: red;
+}
